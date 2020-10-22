@@ -3,7 +3,7 @@
     {
       "id": "1",
       "title": "Post one",
-      "body": "This is the post body",
+      "body": "This is the post body for post 1",
       "publishedAt": "10-01-2020"
     },
     {
@@ -17,6 +17,12 @@
       "title": "Post three",
       "body": "This is the post body",
       "publishedAt": "10-01-2020"
+    },
+    {
+      "title": "Post 4",
+      "body": "szdfvzsfvazwrfawe",
+      "publishedAt": "2020-10-22",
+      "id": "mVg9g8g"
     }
   ],
   "users": [
